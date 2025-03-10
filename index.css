@@ -1,0 +1,70 @@
+html,body{
+    height:100%;
+    margin:0;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color:#666;
+
+}
+
+
+.pimg1{
+    background-image:url(flower.webp); background-attachment: fixed;
+    min-height:80%;position: relative;background-position: center;background-size: cover;background-repeat: no-repeat;
+
+}
+
+
+.pimg2{
+    background-image:url(DesktopQuadCat_372x232_LP-HP_B08MYX5Q2W_01.23._SY232_CB619238939_.jpg); background-attachment: fixed;
+    min-height:400px;position: relative;background-position: center;background-size: cover;background-repeat: no-repeat;
+}
+
+
+
+.pimg3{
+    background-image:url(flower.webp); background-attachment: fixed;
+    min-height: 400px;position: relative;background-position: center;background-size: cover;background-repeat: no-repeat;
+}
+.pimg4{
+    background-image:url(DesktopQuadCat_372x232_LP-HP_B08MYX5Q2W_01.23._SY232_CB619238939_.jpg); background-attachment: fixed;
+    min-height: 400px;position: relative;background-position: center;background-size: cover;background-repeat: no-repeat;
+}
+
+
+.ptext{
+    position: absolute;
+    top:50%;
+    width:100%;
+    text-align: center;font-size: 27px;color: black;letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+
+.textBG{
+    background:#313534 ;
+    color: white;
+    padding:20px;
+}
+
+
+.section{
+padding: 50px 80px;
+text-align: center;
+
+}
+.section-light1{
+    background-color: #282e34;
+    color:#dddd
+}
+.section-light2{
+    background-color:#282e34;
+    color:white;
+
+}
+.section-light3{
+    background-color: #282e34;
+    color:white;
+}
